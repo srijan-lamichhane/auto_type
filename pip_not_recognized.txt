@@ -1,0 +1,9 @@
+pip : The term 'pip' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of 
+the name, or if a path was included, verify that the path is correct 
+and try again.
+
+step 1: find where your python is installed.
+eg: C:\Users\shree\AppData\Local\Programs\Python\Python310
+step 2: go to the properties of this pc and to the environment variables
+step3: edit add path and add the path.
